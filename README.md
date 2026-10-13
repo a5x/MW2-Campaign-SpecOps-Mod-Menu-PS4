@@ -36,13 +36,22 @@ Notes:
 
 ---
 
+##How To Install ?
+
+---
+1. Download ZIP
+2. Take MAG_Cheats_CP_SO folder drag and drop it in /data/01cedric/mw2/mods/
+3. Launch mw2, go in mods options, turn ON this folder
+
+---
+
 ## 📁 Structure
 
 ```
 MW2_WHITE_WATER_CP_SP/
 ├── maps/
-│   ├── _wwsp.gsc        # Init, shortcuts, (menu disabled)
-│   └── _wwsp_opts.gsc   # Options: god, ammo, recoil, FOV, unlocks...
+│   ├── _wwsp.gsc
+│   └── _wwsp_opts.gsc
 ```
 
 ---
